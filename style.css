@@ -1,4 +1,16 @@
 body{
     background-color: rgb(16, 113, 223);
     color:rgb(241, 241, 241)
+    font-family:"Rubik", sans-serif;
+    display: flex; 
+    justify-content: center;
+    aling-items: center;
+    height: 700px;
+    margin: 0; 
+}
+button {
+    background-color: rgb(247, 244, 244);
+    color:rgb(0, 0, 0)
+    font-family:"Rubik", sans-serif;
+    
 }
