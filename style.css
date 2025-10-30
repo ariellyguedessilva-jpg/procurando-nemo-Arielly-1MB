@@ -1,21 +1,24 @@
 body{
     background-color: rgb(104, 126, 226);
-    color:rgb(241, 241, 241)
+    color:rgb(241, 241, 241);
     font-family:"Rubik", sans-serif;
     display: flex; 
     justify-content: center;
-    aling-items: center;
+    align-items: center;
     height: 700px;
     margin: 0; 
 }
+
 button {
     background-color: rgb(247, 244, 244);
-    color:rgb(0, 0, 0)
-    font-family:"Rubik", sans-serif;
+    color:rgb(0, 0, 0);
+    font-family: "white", sans-serif;
 }
+
 .passo{ 
     display: none;
 }
+
 .passo.ativo{
     display:block;
 }
