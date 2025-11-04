@@ -11,7 +11,7 @@ body{
 
 button {
     background-color: rgb(247, 244, 244);
-    color:rgb(0, 0, 0);
+    color:rgb(5, 5, 5);
     font-family: "white", sans-serif;
 }
 
@@ -19,6 +19,6 @@ button {
     display: none;
 }
 
-.passo.ativo{
+.passo.ativo {
     display:block;
 }
