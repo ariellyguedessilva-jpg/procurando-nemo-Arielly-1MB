@@ -14,9 +14,9 @@ button {
     color:rgb(5, 5, 5);
     font-family: "white", sans-serif;
 }
-
-.passo {
+.passo{
     display: none;
+
 }
 
 .passo.ativo{
